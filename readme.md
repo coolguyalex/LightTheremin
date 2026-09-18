@@ -80,4 +80,5 @@ Each key/mode is a fixed array of allowed frequencies (or MIDI note numbers conv
 
 ## License
 
-MIT — see [LICENSE](LICENSE) (or replace with your preferred license).
+MIT — see [LICENSE](LICENSE) 
+
